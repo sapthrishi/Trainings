@@ -1,2 +1,2 @@
 # Trainings
-Machine Learning, A.I, 
+Machine Learning, Statistics Tutorial by Rishi Chandra.
